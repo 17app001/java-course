@@ -24,7 +24,7 @@ public class Ex_1 {
 
         double total = score1 + score2 + score3;
 
-        System.out.printf("總分為:%d分\n平均分為:%6.2f", (int) total, total / 3);
+        System.out.printf("總分為: %d分\n平均分為: %6.2f", (int) total, total / 3);
 
         input.close();
     }
