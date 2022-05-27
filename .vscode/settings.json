@@ -1,8 +1,9 @@
 {
-    "java.project.sourcePaths": [
-        "lesson-3",
-        "lesson-2",
-        "lesson-1",
-        "lesson-4"
-    ]
+  "java.project.sourcePaths": [
+    "lesson-4",
+    "lesson-3",
+    "lesson-2",
+    "lesson-1",
+    "lesson-5"
+  ]
 }
