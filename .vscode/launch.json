@@ -1,0 +1,336 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bmi",
+            "request": "launch",
+            "mainClass": "Bmi",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch BmiCalc",
+            "request": "launch",
+            "mainClass": "BmiCalc",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ch3_1",
+            "request": "launch",
+            "mainClass": "Ch3_1",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ch3_2",
+            "request": "launch",
+            "mainClass": "Ch3_2",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ch3_4",
+            "request": "launch",
+            "mainClass": "Ch3_4",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ch3_6",
+            "request": "launch",
+            "mainClass": "Ch3_6",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ch3_7",
+            "request": "launch",
+            "mainClass": "Ch3_7",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ch3_8",
+            "request": "launch",
+            "mainClass": "Ch3_8",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ch4_1",
+            "request": "launch",
+            "mainClass": "Ch4_1",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ch4_10",
+            "request": "launch",
+            "mainClass": "Ch4_10",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ch4_11",
+            "request": "launch",
+            "mainClass": "Ch4_11",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ch4_11_Ex",
+            "request": "launch",
+            "mainClass": "Ch4_11_Ex",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ch4_12",
+            "request": "launch",
+            "mainClass": "Ch4_12",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ch4_13",
+            "request": "launch",
+            "mainClass": "Ch4_13",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ch4_2",
+            "request": "launch",
+            "mainClass": "Ch4_2",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ch4_4",
+            "request": "launch",
+            "mainClass": "Ch4_4",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ch4_5",
+            "request": "launch",
+            "mainClass": "Ch4_5",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ch4_5_Ex",
+            "request": "launch",
+            "mainClass": "Ch4_5_Ex",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ch4_6",
+            "request": "launch",
+            "mainClass": "Ch4_6",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ch4_6_Ex",
+            "request": "launch",
+            "mainClass": "Ch4_6_Ex",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ch4_7",
+            "request": "launch",
+            "mainClass": "Ch4_7",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ch4_8",
+            "request": "launch",
+            "mainClass": "Ch4_8",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ch4_9",
+            "request": "launch",
+            "mainClass": "Ch4_9",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ch4_9_Ex",
+            "request": "launch",
+            "mainClass": "Ch4_9_Ex",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ch5_1",
+            "request": "launch",
+            "mainClass": "Ch5_1",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ch5_2",
+            "request": "launch",
+            "mainClass": "Ch5_2",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ch5_3",
+            "request": "launch",
+            "mainClass": "Ch5_3",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ch5_4",
+            "request": "launch",
+            "mainClass": "Ch5_4",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ch5_5",
+            "request": "launch",
+            "mainClass": "Ch5_5",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ch5_6",
+            "request": "launch",
+            "mainClass": "Ch5_6",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ch6_1",
+            "request": "launch",
+            "mainClass": "Ch6_1",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch CharTest",
+            "request": "launch",
+            "mainClass": "CharTest",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckHasNext",
+            "request": "launch",
+            "mainClass": "CheckHasNext",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex_1",
+            "request": "launch",
+            "mainClass": "Ex_1",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch RandomDemo",
+            "request": "launch",
+            "mainClass": "RandomDemo",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringFormat",
+            "request": "launch",
+            "mainClass": "StringFormat",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringTest",
+            "request": "launch",
+            "mainClass": "StringTest",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch TaxiPay",
+            "request": "launch",
+            "mainClass": "TaxiPay",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test1",
+            "request": "launch",
+            "mainClass": "Test1",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test3",
+            "request": "launch",
+            "mainClass": "Test3",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test4",
+            "request": "launch",
+            "mainClass": "Test4",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThreeDimensions",
+            "request": "launch",
+            "mainClass": "ThreeDimensions",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Timer",
+            "request": "launch",
+            "mainClass": "Timer",
+            "projectName": "java-course_474c2241"
+        },
+        {
+            "type": "java",
+            "name": "Launch TimerEx",
+            "request": "launch",
+            "mainClass": "TimerEx",
+            "projectName": "java-course_474c2241"
+        }
+    ]
+}
